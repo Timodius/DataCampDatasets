@@ -1,0 +1,5 @@
+StopID                             StopName                 Location
+  4431      MUSIC CITY CENTRAL 5TH - BAY 11   (36.16659, -86.781996)
+   588         CHARLOTTE AVE & 7TH AVE N WB      (36.165, -86.78406)
+   590         CHARLOTTE AVE & 8TH AVE N WB  (36.164393, -86.785451)
+   541  11TH AVE / N GULCH STATION OUTBOUND  (36.162249, -86.790464)
